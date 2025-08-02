@@ -1,6 +1,5 @@
 Advanced Algorithm Design and Analysis
 
-This repository is a complete self study path with original notes worked problems and code labs. Use the syllabus folder to navigate. The Project view in GitHub can track your study with columns To Do In Progress Review Done.
 
 Learning goals
 Develop strong asymptotic analysis and proof skills

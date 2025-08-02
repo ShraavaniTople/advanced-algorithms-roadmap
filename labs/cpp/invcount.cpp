@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 long long merge_count(vector<int>& a, int l, int r, vector<int>& tmp) {
@@ -29,4 +30,5 @@ long long inversion_count(vector<int> a) {
 int main() {
     vector<int> arr = {2, 4, 1, 3, 5};
     cout << inversion_count(arr) << "\n";
+    return 0;
 }

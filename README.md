@@ -22,7 +22,7 @@ assets holds diagrams you draw from the flowchart step lists
 
 ## Progress Tracker
 
-- [ ] Module 00 Introduction  
+- [ ] Module 00 Introduction 
 - [ ] Module 01 Analysis Foundations  
 - [ ] Module 02 Divide and Conquer  
 - [ ] Module 03 Greedy Methods  
